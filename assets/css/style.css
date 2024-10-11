@@ -484,6 +484,7 @@ body.active { overflow: hidden; }
 .hero .wrapper {
   position: relative;
   text-align: left;
+  color: var(--radical-red);
   height: 1.2em;
   margin-block: 10px 25px;
 }
@@ -503,6 +504,7 @@ body.active { overflow: hidden; }
   font-weight: var(--fw-300);
   text-transform: uppercase;
   letter-spacing: 5px;
+  color: var(--white_a75);
 }
 
 .hero .wrapper .space { padding: 0.1em; }

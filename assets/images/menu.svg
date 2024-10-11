@@ -1,6 +1,11 @@
-<svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="2.5" cy="2.5" r="2.5" fill="white"/>
-<circle cx="14" cy="2.5" r="2.5" fill="white"/>
-<circle cx="2.5" cy="14" r="2.5" fill="white"/>
-<circle cx="14" cy="14" r="2.5" fill="white"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 17 17" style="enable-background:new 0 0 17 17;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<ellipse id="XMLID_00000074441301027630949140000005231084064433631661_" class="st0" cx="8.3" cy="2.5" rx="8.3" ry="1.1"/>
+<ellipse id="XMLID_00000076568524075797859280000005276343210193524627_" class="st0" cx="8.3" cy="8.4" rx="8.3" ry="1.1"/>
+<ellipse id="XMLID_00000052783825927618309410000006641039377480140932_" class="st0" cx="8.3" cy="14" rx="8.3" ry="1.1"/>
 </svg>
