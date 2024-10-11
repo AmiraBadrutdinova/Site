@@ -23,6 +23,8 @@
   --smokey-black: hsl(0, 0%, 7%);
   --eerie-black: hsl(0, 0%, 9%);
   --radical-red: hsl(346, 100%, 58%);
+  --telegram: hsl(200, 71%, 50%);
+  --vk:hsl(212, 91%, 56%);
   --white_a9: hsla(0, 0%, 100%, 0.09);
   --white_a15: hsla(0, 0%, 100%, 0.15);
   --white_a25: hsla(0, 0%, 100%, 0.25);
@@ -416,7 +418,19 @@ body.active { overflow: hidden; }
   align-items: center;
   gap: 15px;
   width: 100%;
-  background-color: var(--radical-red);
+  background-color: var(--telegram);
+  color: var(--white);
+  padding: 8px 30px;
+  border-radius: var(--radius-5);
+  margin-block-end: 20px;
+}
+.login-btn2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  width: 100%;
+  background-color: var(--vk);
   color: var(--white);
   padding: 8px 30px;
   border-radius: var(--radius-5);
@@ -1533,7 +1547,7 @@ body.active { overflow: hidden; }
 
   .about .container { gap: 120px; }
 
-  .about .shape-1 { width: max-content; }
+  .about .shape-1 { width: 50%; }
 
   .about .section-title { margin-block-end: 70px; }
 
