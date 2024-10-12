@@ -896,11 +896,11 @@ body.active { overflow: hidden; }
 
 .footer-bg .img-cover { object-position: top; }
 
-.footer-bottom .logo {
+/* .footer-bottom .logo {
   margin-inline: auto;
   max-width: max-content;
   margin-block-end: 20px;
-}
+} */
 
 .social-list {
   display: flex;
@@ -1084,11 +1084,11 @@ body.active { overflow: hidden; }
 
   .footer-bottom .container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(1, 1fr);
     align-items: center;
   }
 
-  .footer-bottom .logo { margin: 0; }
+  /* .footer-bottom .logo { margin: 0; } */
 
   .copyright,
   .social-list { padding-block-end: 0; }
