@@ -993,6 +993,28 @@ body.active { overflow: hidden; }
  * responsive for large than 575px screen
  */
 
+ @media (max-width: 275px) {
+  .container {
+    max-width: 300px;
+    width: 100%;
+    margin-inline: auto;
+  }
+  .hero-title {
+    font-size: 40px;
+    line-height: 50px;
+  }
+  .h2 {
+    font-size: var(--fs-3);
+  }
+  .hero .wrapper .strong {
+    left: 70%;
+ }
+ .yourtelegram,
+ .yourvk {
+  font-size: 15px;
+  line-height: 15px;
+ }
+ }
 @media (min-width: 575px) {
 
   /**
