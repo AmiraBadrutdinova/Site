@@ -993,7 +993,7 @@ body.active { overflow: hidden; }
  * responsive for large than 575px screen
  */
 
- @media (max-width: 275px) {
+ @media (max-width: 300px) {
   .container {
     max-width: 300px;
     width: 100%;
