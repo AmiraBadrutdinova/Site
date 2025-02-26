@@ -2,11 +2,6 @@
   #style.css
 \*-----------------------------------*/
 
-/**
- * copyright 2022 codewithsadee
- */
-
-
 
 
 
@@ -50,6 +45,7 @@
 
   --ff-recoleta: "Recoleta", serif;
   --ff-gordita: "Gordita", sans-serif;
+  --ff-shostkabro: "SHOSTKABRO", sans-serif;
   
   --fs-1: 6rem;
   --fs-2: 5rem;
@@ -937,6 +933,9 @@ body.active { overflow: hidden; }
   font-weight: var(--fw-300);
   letter-spacing: 0.5px;
   text-align: center;
+}
+.author {
+  font-family: var(--ff-shostkabro);
 }
 
 
